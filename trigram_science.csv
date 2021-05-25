@@ -1,0 +1,63 @@
+Model,Score
+ridge_training 0.01,0.9931565440547476
+ridge_test 0.01,0.669327251995439
+ridge_training 0.1,0.9924436840604506
+ridge_test 0.1,0.7029646522234891
+ridge_training 1,0.9888793840889649
+ridge_test 1,0.733751425313569
+ridge_training 5,0.9516680923866553
+ridge_test 5,0.7542759407069556
+ridge_training 10,0.9251497005988024
+ridge_test 10,0.7594070695553021
+ridge_training 20,0.8962075848303394
+ridge_test 20,0.7679589509692132
+knn_training 1,0.9985742800114058
+knn_test 1,0.6830102622576967
+knn_training 2,0.8454519532363843
+knn_test 2,0.7554161915621437
+knn_training 3,0.8323353293413174
+knn_test 3,0.7588369441277081
+knn_training 4,0.8195038494439693
+knn_test 4,0.7616875712656784
+knn_training 5,0.8126603934987169
+knn_test 5,0.7770809578107184
+forest_training trees:20 dpth: 50,0.8106643855146849
+forest_test trees:20 dpth: 50,0.7890535917901939
+dtree_training  dpth: 50,0.9188765326489877
+dtree_test  dpth: 50,0.7451539338654504
+forest_training trees:20 dpth: 100,0.8637011690903906
+forest_test trees:20 dpth: 100,0.7879133409350056
+dtree_training  dpth: 100,0.9635015682919874
+dtree_test  dpth: 100,0.733751425313569
+forest_training trees:20 dpth: 200,0.9620758483033932
+forest_test trees:20 dpth: 200,0.7822120866590649
+dtree_training  dpth: 200,0.984887368120901
+dtree_test  dpth: 200,0.7189281641961232
+forest_training trees:20 dpth: 300,0.9846022241231822
+forest_test trees:20 dpth: 300,0.7787913340935005
+dtree_training  dpth: 300,0.9985742800114058
+dtree_test  dpth: 300,0.7223489167616876
+forest_training trees:50 dpth: 50,0.8063872255489022
+forest_test trees:50 dpth: 50,0.7890535917901939
+forest_training trees:50 dpth: 100,0.8665526090675791
+forest_test trees:50 dpth: 100,0.7873432155074116
+forest_training trees:50 dpth: 200,0.9602224123182207
+forest_test trees:50 dpth: 200,0.7844925883694412
+forest_training trees:50 dpth: 300,0.9914456800684346
+forest_test trees:50 dpth: 300,0.7822120866590649
+forest_training trees:70 dpth: 50,0.8059595095523239
+forest_test trees:70 dpth: 50,0.7890535917901939
+forest_training trees:70 dpth: 100,0.8644140290846878
+forest_test trees:70 dpth: 100,0.7879133409350056
+forest_training trees:70 dpth: 200,0.9597946963216424
+forest_test trees:70 dpth: 200,0.7810718358038768
+forest_training trees:70 dpth: 300,0.9950099800399201
+forest_test trees:70 dpth: 300,0.7816419612314709
+forest_training trees:100 dpth: 50,0.805674365554605
+forest_test trees:100 dpth: 50,0.7890535917901939
+forest_training trees:100 dpth: 100,0.8702594810379242
+forest_test trees:100 dpth: 100,0.7879133409350056
+forest_training trees:100 dpth: 200,0.9607927003136584
+forest_test trees:100 dpth: 200,0.7839224629418472
+forest_training trees:100 dpth: 300,0.9958654120330767
+forest_test trees:100 dpth: 300,0.7833523375142531
